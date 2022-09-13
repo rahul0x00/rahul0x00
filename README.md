@@ -2,4 +2,4 @@
 
 *I am a hacker and programmer.*
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/s0md3v?style=social)](https://twitter.com/0xdarksaber)
+[![Twitter Follow](https://img.shields.io/twitter/follow/0xdarksaber?style=social)](https://twitter.com/0xdarksaber)
