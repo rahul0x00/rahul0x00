@@ -3,5 +3,5 @@
 *I code computers in patterns. I am a hacker and programmer.*
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/0xdarksaber?style=social)](https://twitter.com/0xdarksaber)
-[![GitHub rahul0x00](https://img.shields.io/github/followers/rahul0x00?label=follow%20github&style=flat)](https://github.com/KathanP19)
-[![BuyMeACoffee rahul0x00](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.buymeacoffee.com/kathanp19)
+[![GitHub rahul0x00](https://img.shields.io/github/followers/rahul0x00?label=follow%20github&style=flat)](https://github.com/rahul0x00)
+[![BuyMeACoffee rahul0x00](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.buymeacoffee.com/rahul0x00)
