@@ -14,4 +14,4 @@
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=rahul0x00&count_private=true&theme=radical&show_icons=true" />
 
 
-![snake gif](https://github.com/rahul0x00/rahul0x00/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/rahul0x00/rahul0x00/blob/output/github-contribution-grid-snake.svg)
