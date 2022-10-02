@@ -9,7 +9,7 @@
 [![](https://visitcount.itsvg.in/api?id=rahul0x00&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul0x00&theme=radical" height="200px" width="200px" alt="stats card";
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul0x00&theme=radical">
 
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=rahul0x00&count_private=true&theme=radical&show_icons=true" />
 
