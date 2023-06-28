@@ -3,7 +3,7 @@ I'm Rahul <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" 
 
 *I code computers in patterns. I am a hacker and programmer.*
   - ∞ I'm currently learning React.
-  - 💡 Exploring the realms of algorithms, data structures, and software engineering.
+  <!--- 💡 Exploring the realms of algorithms, data structures, and software engineering. -->
   - 🌱 Constantly learning and expanding my knowledge in the world of technology.
   - 🚀 Hyperdrive Optimization: Like the Millennium Falcon's hyperdrive. <!--, I'm passionate about optimizing algorithms for lightspeed performance.-->
     <br>
