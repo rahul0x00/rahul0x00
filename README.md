@@ -63,7 +63,6 @@ while(dev.isCoding())
 <summary>Open some Section</summary>
 
 </details> -->
-<!--
 
 <h2 id="projects" align='center'> My Projects & Open Source Contributions 🔥</h2>
 
@@ -71,7 +70,7 @@ while(dev.isCoding())
 <summary>Show Projects & Contributions</summary>
 
   <h2 id="achievements" align='center'>Achievements ⚡️</h2>
--->
+
 <details>
 <summary>Show Achievements</summary>
 
