@@ -33,7 +33,7 @@ I'm Rahul <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" 
 | Skill Group | Skills |
 | ----------- | ------ |
 | **WebDev:** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">&nbsp;<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"> |
-| **Programming:** | &nbsp;<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">|
+| **Programming:** | &nbsp;<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++">|
 | **Operating System:** | <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt=""> |
 | **Other Technologies:** |  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">&nbsp;<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
 <!-- <img src="" alt=""> -->
@@ -91,7 +91,7 @@ And many other contributions to open source 😇. I love contributing whatever I
 </details><h2 id="social" align='center'>Social Handles 🤝</h2>
 
 <p align='center'>
-<a href="https://twitter.com/Prakhartiwari0" target="_blank">
+<a href="https://twitter.com/berserker" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
 </a>&nbsp;<a href="https://www.linkedin.com/in/rahul0x00" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
