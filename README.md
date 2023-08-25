@@ -57,8 +57,10 @@ while(dev.isCoding())
 | **Operating System:** | <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt=""> |
 | **Other Technologies:** |  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">&nbsp;<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
 <!-- <img src="" alt=""> -->
-<img  width="150px" align='right' src="https://i.giphy.com/media/TEILCythSScYyaaEDK/giphy.webp">
+<!-- <img  width="150px" align='right' src="https://i.giphy.com/media/TEILCythSScYyaaEDK/giphy.webp"> -->
+<img width="150px" align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTkyZ3dtMml2dXB5aWZiZnNucGV4anlvOGxjMjAyYjVxaDBsZHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ulfi55m2XDrbLiR9vC/giphy.gif" />
 </details>
+
 <!-- <details>
 <summary>Open some Section</summary>
 
@@ -82,7 +84,7 @@ while(dev.isCoding())
 
 | Name | Description | Proof |
 | ---- | ----------- | ----- |
-| Hacktoberfest 2018,2022 | participated and completed Hacktoberfest 2018 and 2022 | <a href="https://holopin.io/@prakhar_tiwari" target="_blank"><img src="https://holopin.me/rahul0x00" width="100%"/></a> |
+| Hacktoberfest 2018,2022 | participated and completed Hacktoberfest 2018 and 2022 | <a href="https://holopin.io/@rahul0x00" target="_blank"><img src="https://holopin.me/rahul0x00" width="100%"/></a> |
 
 </details>
 </details>
