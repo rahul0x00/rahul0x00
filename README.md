@@ -4,13 +4,18 @@
 ```js
 const name = 'Rahul';
 
-Developer dev = new Developer(name);
+ReverseEnginner re = new ReverseEnginner(name);
 
-while(dev.isCoding())
+while(re.isReverseEngineering())
 {
-  dev.listenToMusic();
-  dev.openStackOverFlow();
-  dev.drinkCoffee()
+  re.decompileExecutable();
+  re.analyzeAssembly();
+  re.findVulnerabilities();
+  re.trapDebugger();
+  re.examineAPIcalls();
+  re.patchBinary();
+  re.testExploit();
+  re.writeReport();
 }
 ```
 
